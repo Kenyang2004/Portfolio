@@ -737,7 +737,7 @@ footer p span {
   }
 
   .about-photo {
-    display: none;
+    display: flex;
   }
 
   .skills-grid {
